@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002664988275",
+    "project_id": "metabotrack",
+    "storage_bucket": "metabotrack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002664988275:android:f8bf43d3ca91077f226406",
+        "android_client_info": {
+          "package_name": "com.example.metabotrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0bSTBdgLOg9y9FYY3NLZJz7JBSoQ8QqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
