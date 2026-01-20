@@ -80,7 +80,9 @@ Calories Burned = MET × Weight (kg) × Duration (hours)
 MetaboTrack integrates with the CalorieNinjas Calories Burned API to retrieve accurate energy expenditure (calories burned) for human physical activities.
 
 API Provider: CalorieNinjas
+
 Base URL: https://api.calorieninjas.com/v1/calories
+
 Query Format: https://api.calorieninjas.com/v1/calories?query=<activity>
 
 🔑 Authentication
